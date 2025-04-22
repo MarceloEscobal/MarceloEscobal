@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 ¡Hola! Soy un estudiante de 20 años apasionado por la ingeniería de computación y sistemas, originario de la hermosa ciudad de Trujillo, Perú. 💻<br><br>Además de mi interés por la tecnología, disfruto mantener un estilo de vida activo: el gimnasio y los deportes son parte fundamental de mi rutina diaria. 🏋️‍♂️⚽<br><br>Me encanta aprender cosas nuevas y aplicar mis conocimientos para resolver problemas y crear soluciones innovadoras. ¡Estoy emocionado por colaborar en proyectos y crecer como profesional en el mundo de la tecnología!
+👋 ¡Hola! Soy un estudiante de 20 años apasionado por la ingeniería de computación y sistemas, originario de la hermosa ciudad de Trujillo, Perú. 💻<br><br>Además de mi interés por la tecnología, disfruto mantener un estilo de vida activo: el gimnasio y los deportes son parte fundamental de mi rutina diaria. 🏋<br><br>Me encanta aprender cosas nuevas y aplicar mis conocimientos para resolver problemas y crear soluciones innovadoras. ¡Estoy emocionado por colaborar en proyectos y crecer como profesional en el mundo de la tecnología!
 
 
 # 💻 Tech Stack:
